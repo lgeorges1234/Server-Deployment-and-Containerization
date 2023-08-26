@@ -1,6 +1,6 @@
 .DS_Store
 .env*
-GitHubToken
+GitHubToken.txt
 .flaskenv
 *.pyc
 *.pyo
